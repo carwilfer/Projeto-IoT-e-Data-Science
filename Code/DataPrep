@@ -1,1 +1,6 @@
 
+drone_ataque = pd.read_csv('PakistanDroneAttacks.csv', encoding= 'unicode_escape', index_col='S#')
+drone_ataque
+
+drone_ataque.info()
+

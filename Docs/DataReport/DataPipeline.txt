@@ -1,0 +1,3 @@
+# Data Pipeline 
+
+Descreva o pipeline de dados e forneça um diagrama lógico. Liste a frequência com que os dados são movidos - em tempo real/fluxo, quase em tempo real, agrupados com frequência etc.

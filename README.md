@@ -11,3 +11,5 @@ Os dois documentos em Docs/Project, nomeadamente o [Charter](./Docs/Project/Char
 
 ![image](https://user-images.githubusercontent.com/56918360/162734484-e7f7f6bb-df33-48f7-a0cd-deb6c8ed7857.png)
 
+![image](https://user-images.githubusercontent.com/56918360/162735640-ce0b67cb-e004-4c45-95fa-192c161a5051.png)
+

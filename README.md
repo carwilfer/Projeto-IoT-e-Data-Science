@@ -8,3 +8,6 @@ Esta é uma estrutura geral de diretórios do projeto para o Team Data Science P
 **NOTE:** Nesta estrutura de diretórios, o **Sample_Data folder is NOT supposed to contain LARGE raw or processed data**. Deve conter apenas **small and sample** conjuntos de dados, que podem ser usados ​​para testar o código.
 
 Os dois documentos em Docs/Project, nomeadamente o [Charter](./Docs/Project/Charter.md) e [Exit Report](./Docs/Project/Exit%20Report.md) são particularmente importantes a considerar. Eles ajudam a definir o projeto no início de um trabalho e fornecem um relatório final ao cliente ou cliente.
+
+![image](https://user-images.githubusercontent.com/56918360/162734484-e7f7f6bb-df33-48f7-a0cd-deb6c8ed7857.png)
+

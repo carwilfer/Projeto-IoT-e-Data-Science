@@ -1,3 +1,3 @@
-# Esta pasta contém código para implantação do modelo
+# This folder hosts code for data acquisition and understanding (exploratory analysis)
 
-Você pode adicionar uma descrição detalhada nesta remarcação relacionada ao seu projeto específico de ciência de dados.
+You can add detailed description in this markdown related to your specific data science project.
